@@ -29,6 +29,8 @@ namespace DatingApp.DTOs
 
         public string Country { get; set; }
 
+        public string Interests { get; set; }
+
         public List<PhotoDto> Photos { get; set; }
     }
 }
