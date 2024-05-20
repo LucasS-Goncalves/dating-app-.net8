@@ -1,13 +1,10 @@
 ﻿using AutoMapper;
-using DatingApp.Data;
 using DatingApp.DTOs;
 using DatingApp.Entities;
 using DatingApp.Interfaces;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using System.Security.Cryptography;
-using System.Text;
 
 namespace DatingApp.Controllers
 {
